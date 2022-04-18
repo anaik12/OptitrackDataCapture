@@ -1,0 +1,116 @@
+001 0.8 -1.5 2 0.08, gonna record both huh okay let's see
+001 -0.5 -1.5 2 2.4, what happens
+002 -0.5 -1.5 2 1.6, it blows up
+002 0.5 -1.5 2 2.8, okay so let's restart this app
+002 -0.5 -1.5 2 3.76, really
+002 -0.5 -1.5 2 16.8, so everything
+002 0.8 -1.5 2 1.68, is hands-on
+001 0 -1.5 2 1.68, okay so everything should be recording
+002 0.8 -1.5 2 2.0, now right yes
+001 0.8 -1.5 2 2.0, okay so
+002 -0.8 -1.5 2 2.0, i might want this a little bit more
+002 0 -1.5 2 6.04, okay maybe not
+002 0.8 -1.5 2 3.48, oh
+002 0.5 -1.5 2 4.96, okay
+002 -0.5 -1.5 2 1.92, all right so i might so what was the
+002 0.8 -1.5 2 2.88, query again
+001 0.8 -1.5 2 3.28, so i need something useful
+001 0.8 -1.5 2 3.36, oh i didn't say anything
+002 0.8 -1.5 2 2.8, um
+002 0 -1.5 2 7.2, this is a chart of
+001 -0.8 -1.5 2 2.88, date
+002 -0.8 -1.5 2 1.6, versus cases
+001 0.5 -1.5 2 3.84, so
+002 -0.5 -1.5 2 0.96, which regions
+001 -0.5 -1.5 2 1.84, of the u.s we prioritize for directing
+002 0.5 -1.5 2 4.0, resources
+001 0.8 -1.5 2 3.76, show me the regions of the united states
+001 0.8 -1.5 2 29.36, show me a map of regions
+002 0.5 -1.5 2 5.92, have
+002 0.8 -1.5 2 1.36, it surprises you even
+002 0.5 -1.5 2 2.32, so it looks like
+001 -0.5 -1.5 2 3.76, southeast
+002 0.5 -1.5 2 2.48, south east
+001 0.8 -1.5 2 1.52, that's
+002 -0.5 -1.5 2 2.08, this area and the midwest
+001 -0.5 -1.5 2 2.8, are the highest
+001 0.5 -1.5 2 1.6, so there's a lot of counties
+002 -0.5 -1.5 2 2.4, there's a lot of
+001 0 -1.5 2 1.68, little sleeves
+001 0.8 -1.5 2 1.76, well i could kill my paper yeah because
+001 -0.5 -1.5 2 1.92, it's an infrared screen
+001 0.8 -1.5 2 1.76, that's why it picks it up and then
+002 0 -1.5 2 4.88, our region's different the regions are
+001 0.8 -1.5 2 1.84, different
+002 -0.8 -1.5 2 2.16, show me covet in the southeast
+002 0 -1.5 2 10.4, very high
+002 0.8 -1.5 2 15.76, yeah so
+001 -0.5 -1.5 2 1.52, it's selected
+002 -0.8 -1.5 2 3.76, when you're dragging it
+001 0.5 -1.5 2 1.84, that means
+002 0 -1.5 2 2.8, when you click it it's you're selected
+001 0.5 -1.5 2 1.76, and that means you're getting ready to
+002 0.8 -1.5 2 1.2, do a pivot oh but when you're dragging
+002 -0.5 -1.5 2 2.24, it it also makes sense
+002 0.5 -1.5 2 2.48, you have to make sure you have selected
+001 0.8 -1.5 2 1.52, oh
+002 0.5 -1.5 2 0.8, so
+002 -0.8 -1.5 2 14.88, oh
+002 0.8 -1.5 2 1.04, i see
+001 0 -1.5 2 5.52, it's my joy it's crazy
+001 -0.5 -1.5 2 2.16, maybe we have to use a mouse
+001 -0.5 -1.5 2 3.92, right
+001 -0.8 -1.5 2 5.76, [Music]
+001 -0.5 -1.5 2 3.6, are these good
+001 0.8 -1.5 2 1.44, yeah
+001 0.5 -1.5 2 2.8, why are they so good
+002 -0.5 -1.5 2 8.0, show me a map of access to doctors
+001 0.5 -1.5 2 14.64, show me access to doctors in the mid in
+001 -0.5 -1.5 2 3.6, the southwest
+002 0 -1.5 2 9.6, kick ass
+002 -0.5 -1.5 2 6.48, show me
+001 0.5 -1.5 2 1.36, access to doctors in the midwest
+002 -0.5 -1.5 2 22.56, yeah that's interesting yeah yeah
+002 0.5 -1.5 2 2.48, we're looking at the y-axis it's also
+001 -0.5 -1.5 2 3.72, oh all the numbers you can't compare
+002 0.5 -1.5 2 2.92, evenly yeah
+002 0.5 -1.5 2 1.92, um yeah
+002 0.8 -1.5 2 2.72, but still it's 40.
+002 0.5 -1.5 2 2.56, okay so we got to be careful because the
+001 -0.5 -1.5 2 2.32, axes are not the same
+001 -0.8 -1.5 2 4.4, so we may
+002 0 -1.5 2 2.4, want to figure a way to
+002 0.5 -1.5 2 2.8, okay
+001 0.5 -1.5 2 5.84, so this is selected so okay
+002 0.8 -1.5 2 2.8, show me the same map for
+001 -0.5 -1.5 2 2.64, the east coast
+002 0.8 -1.5 2 22.88, show me a map of region
+001 0.8 -1.5 2 12.48, show me this for the rockies
+002 0 -1.5 2 8.32, that worked
+002 0.5 -1.5 2 9.84, show me this for
+002 -0.5 -1.5 2 2.24, access to doctors
+002 0.5 -1.5 2 18.48, you can see i'm gonna run out of space
+001 -0.5 -1.5 2 1.44, real fast
+001 -0.8 -1.5 2 5.12, show me elderly percentage
+001 -0.5 -1.5 2 7.2, show me something about elderly
+001 -0.8 -1.5 2 1.44, percentage
+002 -0.5 -1.5 2 8.56, what is the correlation between elderly
+002 0.5 -1.5 2 2.0, percentage and covet risk
+001 0 -1.5 2 11.52, it's like black magic
+002 -0.5 -1.5 2 1.92, it says voodoo
+002 -0.8 -1.5 2 8.48, access to doctors
+002 0 -1.5 2 2.24, by region huh
+002 -0.8 -1.5 2 4.56, okay let's stop this for now
+002 0.5 -1.5 2 2.88, let's save all your data
+002 0.8 -1.5 2 6.64, i'll save your app data too
+002 0.8 -1.5 2 6.72, yeah
+002 0 -1.5 2 2.88, good because when we saved your app data
+002 0.5 -1.5 2 2.88, the software captured made a screenshot
+001 -0.8 -1.5 2 2.4, of this whole thing too
+001 -0.5 -1.5 2 1.68, oh that's right right
+002 0 -1.5 2 1.92, because we don't make one you don't make
+002 -0.5 -1.5 2 1.52, one right yeah
+001 0.5 -1.5 2 2.0, so this is this is nice to see
+002 0.5 -1.5 2 2.72, right
+001 -0.8 -1.5 2 1.36, and then
+002 0.8 -1.5 2 1.68, so now let's stop this guy

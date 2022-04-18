@@ -1,0 +1,1845 @@
+okay just your interactions
+and
+uh say in the consent form did you also
+include your email address
+no okay but you have everything yeah
+yeah
+because i need that to
+send you the amazon
+okay so i'm gonna go over everything
+that you guys need to do
+um
+for our experiment you two will be
+interacting with
+with artie
+a virtual assistant who is always
+listening and he will be making
+visualizations for you
+say hi to artie hello
+hello
+um
+so you two will be
+exploring kobe 19 data set
+in order to try answer a list of
+questions with the help of party
+throughout this process feel free to
+discuss things between the three of you
+your task is to make visualizations
+visualization
+three of you commit youtube and
+okay
+your task is to make visualizations that
+will help you build up evidence
+to support your answer to the questions
+on the paper
+i'm going to explain all the tools that
+are available to you
+so
+rda will be listening to you from these
+three microphones one two three
+just keep that in mind in case you find
+already has difficulty viewing you
+in front of you is a touch screen
+display
+and this window
+there's a list of attributes that are in
+the data set go ahead and google
+so in front of you is a sorry they only
+have one touch pin
+another person will need to use that
+sharpie is the touchpad
+um
+yeah you can
+click on those drag the window around
+from the title bar oh yeah
+so
+use your finger too but it's not very
+precise that's why we
+had to use a little stick instead yeah
+okay
+so
+again this window has a list of
+attributes that are in the data set
+you can tap on any of those attributes
+and you can see a list of unique data
+values that you can use to help you
+narrow down the visualizations you want
+to produce
+for example you can make a chart related
+to
+high diabetes rate and high
+cardiovascular
+disease rate
+um
+any questions about the tools
+so we just need to answer these five
+questions
+um yeah i can
+i'm gonna go over
+uh how to use this system
+so when you want to create a
+visualization you can tell already the
+visualizations you want to make you've
+already understand you will respond with
+the voice bubble as you saw earlier
+article
+will make will appear on this blue row
+on the bottom
+new visual new visualizations will
+appear on the right
+and as this role fills up
+visualizations will be pushed to the
+left
+once the visualizations are pushed off
+the screen
+it will disappear forever
+so if you do see a visualization that
+you think will help you with your task
+you can tap on the visualizations
+and they will appear in this large white
+space
+provided above
+the visualizations will appear as a
+in a window just like the attribute list
+[Music]
+so once the visualizations are in the
+white space
+you can drag them around with your
+finger or the touch pen or the sharpie
+you can delete the visualizations by
+tapping on them
+um
+by tapping on the red x button on the
+top left of the window
+you can resize visual visualizations by
+dragging the bottom right corner you're
+going to have one just like that
+you can also select visualizations by
+tapping on them
+and the title bar will turn until color
+if you tap on them again
+you will unselect the visualization
+so when visualizations are selected you
+can tell already to
+modify the visualizations
+to either replace filters attributes
+or change the type of chart
+um so keep in mind the touch wall is
+very sensitive so as you're dragging
+visualizations around you might actually
+um select them
+so
+yeah
+already can make bar charts
+line charts
+heat maps and maps
+but you don't have to explicitly ask for
+those type of charts
+already will try to make the best
+type of chart to answer your question
+so again you should go through each of
+the tasks explore the data
+and when you're ready
+you can present
+your answer to me by referring to the
+charts that best answer the question in
+a task
+any
+questions so how do we instruct it to
+make official decisions
+okay so you can tell already um
+like just think of party just like any
+other human
+being so if you want to ask somebody to
+make a chart for you what would you say
+um
+you make a line shot
+oh yeah he's he's not um he's not
+starting yet
+i guess we'll ask more questions as it
+goes on if anything
+um yeah that's fine
+okay
+yeah i mean we we are we're not going to
+give you too many tips we just want you
+to try and treat arnie
+as your facilitator
+to make visualizations so you won't
+actually be pushing buttons to make
+visualizations
+you're going to be asking for rd's help
+to make those virtualizations
+oh
+make us a map
+already make a map of the united states
+up
+a little bit bigger also
+access the doctor
+should we scroll this down
+uh
+uh can we see a chart for kobe the risk
+oh no what kind of choice you wanted oh
+make a chart for a covered risk
+high problems oh wait
+number of
+is
+that's your country
+um
+can we do the
+one thing i wanted to let you keep in
+mind is that
+the more you talk to each other
+loud enough so that arty can hear
+already can help you to make
+visualizations
+so party is trying to unders hear you
+and understand you so
+so treat him like somebody in the room
+as three of you right now you're
+ignoring arden
+exactly now try to include him in the
+conversation
+discussed
+that's different
+wait what kind of challenges arty can
+you make a map of counties
+can you filter the histogram by county
+types
+just like comments
+can we see a chart of population by
+county
+there you go
+already filter the map by area type
+can you filter the map by area type
+are you not working
+party hello
+can you make a map for all counties
+um
+arie can you make a heat map for uh
+counties versus
+this is diabetes helping us yet
+this one i don't think it's gonna help
+us
+oh yes
+do you want to make the keyboard
+already make a heat map of
+cobit risk versus region
+already make a heat heat map chart of
+oven risk versus region
+i'll probably just flipped it
+just take this one
+well this is
+a resource
+resources
+it's pretty high in the midwest well
+very high in the southeast
+um
+can you make a heat a heat map chart of
+that
+of cobit risk versus region
+okay
+[Music]
+[Music]
+uh line charts bar charts maps
+can you make a visualization
+for mapping midwest rural and high
+poverty rates
+oh that's cool
+access to the doctor so tonight
+that is just one attribute
+but you can see here it's actually very
+low access is very high
+so it's in the middle of the west or the
+midwest is very high but if we look at
+the south east
+york's have really high diabetes
+so you want to make a selfie
+chart to check up on that
+you can see that
+well i actually want to do the heat map
+chart of
+um
+see it makes sense that diabetes is low
+in the midwest because it accesses the
+doctor
+okay it's interesting
+it's also little axes but very well
+actually
+meditation markets
+the doctor
+already making heat map chart of poverty
+versus access to doctors filtered by
+southeast and high poverty rate
+can you make a heat map chart of poverty
+versus access to doctors filtered by
+southeast
+and high poverty rates
+exactly
+no not
+i think it's supposed to go right that
+side or is it yeah it's these ones these
+really small ones yes
+you want to say it again
+so say it again
+make a heat map chart of poverty versus
+access to doctors filtered by south east
+it's just making really small ones so
+let me do this one then
+party make a heat map between access to
+doctors and poverty
+alrighty make a heat map between access
+to doctors and poverty
+make a heat map of access to doctors
+versus poverty
+can
+filter this map by
+region
+already filtered his map by region
+uh
+[Music]
+but
+um
+there's a keyword he's missing before
+quite a different way of saying
+can you check this map by region
+uh search this map by region
+search this map by region
+already select all the regions in this
+map
+hmm okay i want to customize stuff
+that's a look at me already change the
+color scheme to
+blue want to make another map instead
+um i think it's nice to know
+that
+it's also very high on the southeast
+also
+access the doctors and so i'm going to
+put these
+already make a map of poverty versus
+region
+it's not the same one
+well because this is just it's just this
+one it's just a map of holiday so it
+doesn't difficult
+alrighty make a map of
+region versus elderly population
+what's your final present
+what is that it's just about this too
+did we say those things
+it didn't stick oh
+does it only specifically choose these
+areas
+okay
+um
+um
+possible
+because it is the southeast of us
+already make a map of southwest plus
+suburban plus high elderly population
+plus very low access to doctors
+may be a little too big
+what if we just keeps speaking up and
+then he'll just be making charts for us
+that's true
+okay i would like to get a map of the
+midwest plus rural plus very high
+poverty rate
+no
+can you make a map of the south west and
+suburban versus hype
+elderly population
+thank you
+can we add attributes to this
+like
+to specifically filter
+yes
+like let's say
+oh thank you
+that's just a doctor feels myself
+an elderly percentage
+there's something going on again
+oh yeah two minutes
+the lowest
+high rates
+hits the grounds
+thank you
+so look at the solid keys
+seems very
+um
+can you make a heat map of covid risk
+this is what we need this is the sauce
+it's gonna give us everything
+just perfect because we need everything
+let's take a look at
+access to doctors
+no i actually wanted to cook
+a little bit more you don't need this
+one
+yes no access to doctors no
+very low coverage my skin
+counts
+doctors
+but it's also interesting to see because
+i think the correlation is there's
+higher doctors and high risk as a
+population as well
+the midwest have
+very little access to that dudes
+but at the same time
+um
+you make a heat map of a heat map chart
+of covered risk versus region
+okay
+can you make a heat map of covered risk
+versus region
+can you make a heat map of covered risk
+versus access to doctors
+can you make a heat map chart of cold
+reverse versus access to doctors
+interesting
+can you make a chart of kovid risk
+versus region
+okay let's just do chart generalized
+chart and then maybe it'll give us all
+of them okay yep chart of covered risk
+versus region
+can you make a chart of cobin first
+versus region
+let's try it if it says they can't find
+it
+sometimes it means you might already
+have the chart on the wall
+okay
+yep
+so that's a bug on our part so you're
+helping us find the bugs that's okay
+perfect
+i mean that's part of the video
+um a little less
+high poverty rating
+i'm going to do something with
+cardiovascular disease
+you want to mess around with that
+yeah now we have to answer all of this
+why would we put all of this in one shot
+is that possible
+it's already okay i'll test three other
+time okay
+can you make us a chart of coded risk
+poverty and
+so diabetes just made a lot of diabetes
+can you create a chart of co-adverse
+poverties and diabetes per county
+so he does a png i guess you didn't
+understand
+can you make a bar chart of covert risk
+poverty and diabetes per county
+diabetes
+it seems like very high culvert index is
+definitely in the central and then
+the southeast
+which is also funny because you have
+lack of that in the southeast it seems
+like it's very sporadic well it's kind
+of just generalized
+same thing with poverty it's interesting
+that coded risk is very high mixed with
+the property
+i can kind of relay these months to each
+other
+can you combine two maps
+i like to combine the terminals
+like map of poverty and clitoris
+can we just make a map of this too or we
+can just give us a heat chart
+can we make a map of poverty and covert
+risks
+can you make a map of poverty versus
+coded risk
+can you make a chart of poverty versus
+covetours
+perfect
+it's just a histogram
+can we change stuff too
+we saw how to get to the filter
+can you change this to a heat now
+okay can you make this into a heat map
+so far he's only creating stuff
+so
+and we still haven't yet figured out the
+filter
+what else can you do can you flip the x
+and y axis
+alrighty can you flip the x and y axis
+for this try
+interesting
+i can definitely see this is like kind
+of the creation of like jarvis or
+something
+that's some iron man stuff
+it's kind of
+do we need links to answer questions
+i think we just wanted to look into that
+i don't see a cultural correlation
+although it is
+um
+lack of access by the middle east
+it's for the middle east or the middle
+sorry the midwest
+doesn't seem like it has anything that
+we need to worry about
+is there anything called resources
+do i have two
+can you make a map of
+covid risk by cases
+can you make a map of social
+vulnerability by region
+just
+yeah i wanted to
+go
+can you zoom in on this map
+party
+the best thing we can do is just
+actually manually zoom in but
+it's not kind of weird
+make a heat map of covered risk versus
+area type
+look at yeah
+i don't know if the advice area type
+already make a
+map of covet risk versus area type
+can you make a heat map of aries
+oh okay
+common wrist filter partner
+oh it doesn't always filter
+can you make a map of covert risk
+filtered by area type
+that looks like the same
+artie can you make a heat map
+chart of
+colvin risk versus area type
+no all we have right now are we just
+seeing that charts and regions you don't
+have area types yet
+i don't think they have anything on area
+types
+if we are making officialization
+already make a heat
+uh make a heat map of cardiovascular
+disease
+per region
+okay so it is working
+um
+i guess we should just go down the line
+we already know your coffee shorts howdy
+can you make a heat map of
+cardiovascular disease per region
+alrighty can you make a cardiovascular
+disease map
+per area type
+oops
+dinosaur no
+yeah
+maybe heat map or this
+heat map chart
+should we travel
+yes
+why would you need a line charger that's
+what i'm saying we don't really need
+well there is a date attribute but
+there's nothing
+so we know that we can also check the
+uninsured but that also comes with
+poverty so i think it's a it's relevant
+too much
+right and try that let's try you still
+want me to make a map of it
+already making a map of the uninsured
+see it's still kind of the same food
+itself to south beach
+it makes sense that it's not going to be
+insured under
+the west coast
+so we know that these works
+do we try cases
+again
+because i tried individualist plus world
+plus high population high poverty rate
+uh
+can you make a map of diabetes versus
+cardiovascular disease versus elderly
+population
+versus
+is any
+a keyword
+because i want you to combine them
+maybe it's because we're dealing with
+three different things
+i can't do that in departure
+can you make a bar chart of diabetes
+versus cardiovascular disease and
+elderly population
+no for the meantime i think
+okay
+i for the meantime i don't think we can
+combine
+data types but we can combine
+them with area types
+so i guess that's why
+see these are four different data types
+that's why it's working
+it's a bar graph yeah
+make a bar chart of south east plus
+rural plus very high poverty rate
+he keeps giving us access to targets
+but it actually did the whole thing
+or at least a four
+filter one yeah which we wanted
+with the wrong thing
+oh okay
+oh jesus versus states
+oh
+for the meantime it doesn't seem like it
+would be useful for these questions at
+the very least
+um that's cool
+thank you
+i kind of want this one okay
+it's for bluebees
+do you think
+he felt it was by mad too
+what is this in high poverty rate and
+very high
+can you show the filters
+okay
+he's stuck on that one for some reason
+can you remove the filters
+no
+can you take off a high poverty rate
+filter
+can you remove the null values
+okay
+i don't so maybe you can't do specific
+parts
+me too um
+but you already consider some
+correlations of
+which regions
+um
+we can look at
+because right now if we just look at
+these two maps right here
+we've already noticed that there's a
+very high property mixed with the high
+risk
+which is an obvious correlation
+and we can't mix these together
+for the meantime
+you can mix poverty and cover this
+perfect
+yeah
+make a heat map chart of poverty and
+coveted risk
+make a heat map of poverty versus coping
+risk
+make a map between poverty and covert
+risks
+just
+can you make a map between poverty and
+covet risks
+hello
+wait do we have a bathroom
+no we don't why are they all accessible
+wait what's behind us
+access to doctors
+oh
+i wish we could put them together
+maybe we could do
+uh
+make a map of poverty filtered by high
+covered risk
+make a map of poverty versus
+a very high coveted risk index
+interesting interesting interesting
+make a map of poverty filtered by region
+make a map of poverty filtered by region
+i think we can already answer
+most of it
+can you make a map of regions
+can you make a map of regions
+okay
+i know
+anything you have a map allegiance no we
+do we do can you make a map by regions
+can you make a map by area type
+it was working earlier
+do you remember what he said
+make a map by area type
+can you make a chart of suburban areas
+this is suburban though not urgent
+make a histogram a region filtered by
+urban
+he really loves giving us access to
+dolphins
+very high correlation of suburban to
+urban very high correlation to the south
+east also having high poverty rates
+high coverage
+i want to make a map of all the areas
+so that
+they just color code all variations we
+have that i know
+where to go
+can you make a map of all area types
+can you make a map of the area types
+okay
+there's nothing called mini slice
+okay
+okay
+um
+can you make a map filtered by southwest
+plus urban plus very high coveted risk
+index
+okay
+so it does do the filtering
+you know it's the funniest thing
+it's literally saying the all the same
+thing
+just so it
+makes it
+oh
+[Music]
+stop that's cool
+you wanted to just delete them
+they look cool
+they look cool but they're useless
+wait
+line of cases versus color oh wait a
+minute
+i like this one
+see
+this is the same thing
+oh that's my region
+they all started in
+november and december
+you can really see the high correlation
+of people just not caring in 2020
+by the end of it
+i think there's a correlation
+can you make a line chart of cases
+versus
+date colored by area type and region
+let's go can you not combine them
+can you make a line chart of cases
+versus date colored by area type plus a
+region
+thank you for talking to a human you're
+excited
+oh can you make a line chart of cases
+versus date colored by area type and the
+region
+yes sir
+this is going to give us the same thing
+yes sir
+seems like that's his go-to
+it's always access to doctors
+um
+city
+but obviously makes sense that there's a
+lot of cases in small cities but also
+wanna test like small things can you
+select rule
+i think so yes
+oh let me try this can you remove rural
+from this map
+can you remove bourbon from this map
+did you remove the pacific from this map
+okay
+can you remove
+non-contiguous from this chart
+yeah because we don't need that what if
+we want to remove stuff
+[Music]
+i know it'll be nice
+can you remove the rockies from this
+chart
+can you remove the rockies from this
+chart
+arnie what can you do
+does it seem
+for the meantime it just seems like he
+can only make charts
+which i guess is fine for now
+uh
+okay let's let's start looking at
+question one which regions of the uh
+should we prioritize without working
+resources
+you can see
+clearly
+if we're talking about
+like
+area type density
+seems to be the midwest
+and the southeast
+but i want to make the chart so that we
+can specifically point out
+which areas of the map we are just in
+case
+no
+should we make a map of regions
+can you make a map
+by region
+can you make a map by region
+i swear i was working earlier
+let me delete it don't worry
+i don't think it's worth it it's not
+worth it okay
+sure
+that's a lot of scrolling back that's
+why
+is it going forever
+it's not that forever but that's a lot
+of them scrolling back for them
+can you make a histogram of region
+filtered by poverty
+that's just a can you make a histogram
+of region versus poverty
+can you make a histogram of region and
+poverty
+baby
+don't understand i don't understand how
+this was made
+can you make a bar graph of region
+filtered by
+very high poverty
+can you make a map of regions filtered
+by very high poverty
+because it'll be really nice if you can
+get
+just the map of the cleaners versus
+can you make a chart of poverty versus
+covers
+that's good
+meantime
+all we have um for
+um you guys like to try to summarize
+the charts that you created
+so basically
+for the questions that
+you're trying to answer you know the
+question try to explain what the answer
+is to the question by
+pointing out the charts that
+try like you're trying to explain it to
+somebody
+i believe that the answer is this
+because this chart seemed like this
+well so
+for question one which regions of the us
+should we prioritize for directing
+resources
+it seems like uh just based off of the
+first two initial maps that we were
+making map of poverty and map of coveted
+risks we can see a heavy correlation
+between the two color-coded more in the
+south west or the southeast i mean
+and uh just the southern countries in
+general
+um we were trying to mess around with uh
+by area types
+sorry we're trying to look through uh
+the map of covaris as well as the map of
+poverty and just by looking at the
+the heat the heat maps that we see from
+this uh
+there's a heavy correlation in the
+southeast
+and mostly the southern countries that
+we would say has a very high risk and
+something we should prioritize with
+direct resources
+uh in addition to that we noticed that
+sorry oh yes
+in addition to that we see with uh the
+heat map charts of covered risk versus
+access to doctors
+uh
+there's a
+very high risk index
+that also
+correlates to very
+low access to doctors
+and
+with a map that we had earlier
+it showed that most of the southeast uh
+counties also had a very
+low access rate to doctors
+although it would have been nice if we
+kept that um
+this is the priority of the county type
+keep something for 20 times
+i mean we kept this
+chart over here
+let's see
+for number two we uh we might have
+deleted most of the charts in terms of
+area types but just off of this one we
+can see that uh
+when prioritizing for uh resources
+depending on area types we should
+definitely be looking more into
+the small cities which are
+okay i don't know we should be looking
+more into small cities
+uh suburban areas as well as urban areas
+which i think would be linked towards
+uh
+more heavily dense uh populations
+given the area type
+we can also see that
+it also correlates to what we said with
+the southeast having the most amount of
+people
+in in the urban areas and earlier we
+also seen
+that it's the highest amount in suburban
+areas
+although i think it's
+further down the deleted line
+um
+so much
+so for number three we're only able to
+answer
+uh letter g because like the limitations
+we can only plot like one attribute for
+a map
+so the map of region versus access to
+doctors we can see that they're very low
+records for
+these
+pacific non-contiguous
+rockies especially the northeast here
+there's very low on counts for high
+access to doctors so she we would
+prioritize it here
+and not so much in the midwest because
+they have
+high counts of taxes
+seconds
+for number four one of the interesting
+things that we noticed when we were
+doing these uh compound combinations of
+parameters
+is uh for example if we're bringing up a
+map of the midwest rural plus very high
+poverty rates it really does single them
+down to very small um
+uh highlighted areas that we can look
+into which would be really nice for if
+we're specifically looking for like a
+city or a county that we should target
+on
+um although it's very finicky to as to
+why we want to single down that hard for
+the meantime
+um
+okay she's exploring the data type so
+one of the ways to explore the data type
+is to see where we could give more
+doctors per like each region
+so we created a histogram access dockers
+filtered by southeast so this shows just
+areas of the southeast
+oh
+very high access to dogs
+so i guess they don't really need
+all
+more resources for this
+yeah
+it's kind of interesting to kind of mess
+around with it
+yeah most of the most of trying to make
+the charts has been kind of dictated on
+understanding the whole
+um
+like use of a party and it definitely um
+there's a lot of uh more keywords that
+could be added to kind of
+help with the process i think
+knowing what was the
+of the word for filter would have been
+really nice
+but it seems like uh
+he does give a lot of random charts just
+by normally talking and they do be
+helpful once in a while other times it
+seems like he has a huge problem with
+access to doctors always constantly
+showing up yeah
+but
+overall it's been really nice i think uh
+it's really cool that it he is filtered
+by mostly what we want other times just
+against volume
+i want to ask him your question yeah
+so have a seat uh grab the chairs and
+just have a seat yes for sure
+you want us to turn off um all right
+jesus already off we shouldn't be off
+right
+and you can still face the face of the
+wall
+i still we're still recording so i want
+to make sure the microphone is able to
+pick up
+yeah everything
+especially rj you have to sit here
+so they think they can hear you online
+so
+um
+so you kind of already answered this but
+i'm going to ask for again
+um
+for both of your responses
+uh how was your experience with artie
+what did you like
+what did you not like
+and was he helpful
+i liked my experience with artie it was
+kind of like talking to
+like a mixture of a human and an api
+so
+we could just use normal speak to say oh
+make a map of this and that
+but sometimes when we wanted to make
+like a very specific map
+with specific filters sometimes it
+wouldn't work
+and it would give us different types of
+information that we
+didn't need but it's also good because
+sometimes it would
+um
+like even if it gives us information we
+don't need
+um
+we might still infer
+um
+some stuff like the soundtracks i mean
+something
+and then sometimes when we make it a
+little bit too specific it gives us like
+invalid checks like the little pixels
+yeah for me like
+i really like the idea of what already
+is because it really does feel like
+jarvis
+in a sense where it is a
+kind of a
+mock ai assistant for this kind of stuff
+there's a lot of things that i really
+like it seems like a lot of the
+very simple vocal recognizations
+um are adhered to
+although
+definitely when it comes to more complex
+stuff
+uh with the filtering expect especially
+it seems like it's a little finicky
+uh one thing i do like though is
+um
+the filtering does seem to work if we're
+working with different data types but if
+we're working with like filtering on
+like poverty and coping risk for
+specific
+um
+i guess
+data visualizations it's just simply not
+working it seems like heat maps
+does that but we can't do that with maps
+or
+i think line graphs
+which is something that i think is
+something
+that it needs to pick up defects on it
+also seems like he takes in a lot of um
+like keywords but it is also lacking on
+a lot of other major keywords that would
+be helpful to um
+for people to kind of
+talk with to already especially filter i
+think that's one of the words that needs
+to be
+like kind of working and
+does he actually filter like maps if you
+select that
+yeah
+but
+um
+the keywords are
+it's looking at the colors
+so the keywords are
+supposed to be show
+make
+um
+make these
+make those can you make these into
+a bar chart can you make this um
+can you modify this chart
+and put in another attribute or
+something oh yes yes
+yeah
+so it has to be a
+very specific language
+does it take synonyms
+like modifying and say change
+uh no i don't think change is in there
+okay
+because if we're going to use this for
+like a broader
+audience they might have like different
+ways of seeing things yeah like if
+they're not ics majors they might have
+just changed this
+would would you
+find him annoying if he had a lot of
+keywords and he was reacting to
+a lot of
+everything you were saying
+or would it be
+i think it would be better as long as
+you're making sure that like we deselect
+maps and so that he's not like
+accidentally removing or deleting things
+yeah with a lot of keywords he'll be
+really nice but it's just mostly
+uh due to the nature of
+how he was making a lot of charts
+unnecessarily
+um it might be just part of how we said
+specific vernacular
+or it might also just be um
+just the nature of how reactive he is
+but
+i would like to see what it would be
+like it already had way more key
+ketones to kind of adhere to
+uh
+yeah for sure it would be really cool
+um
+so
+do you know a time when party
+spontaneously made a chart if you didn't
+explicitly ask for
+and were they helpful to this question
+uh
+i think about this earlier but he kept
+making
+like heat maps uh line graphs and
+like other stuff specifically for access
+to doctors i don't know if there was a
+key term that we might have said that
+constantly made them to do so but
+um
+yeah it wasn't helpful but there was
+times where he started making line
+charts uh for the cases
+versus like area type and region which
+did help to be
+they were very useful to a certain
+degree
+and uh if we were able to make more
+data sets that were like in tandem with
+what he has given us randomly i think it
+would be very useful
+i think it just comes with the time
+machine of
+how useful these random data sets would
+be
+in like correlation to
+what we could answer in the questions
+how did you feel the same way
+yeah the same way with a lot of access
+to doctors
+but i feel like if we just generally say
+math like or chart of this and that
+um it didn't give us like different
+types of charts to give us the same
+charts but with different attributes
+sounds
+so i guess that would be helpful if we
+just wanted like
+individual
+separate filters
+sorry i don't want to ask you guys the
+same question
+so i'm trying to
+first
+um
+i think we could elaborate more on small
+like things that we noticed oh yeah i
+think one of the uh
+one of the biggest uh like
+sinkholes with uh arnie
+is the fact that we have a map data set
+and a heat map and sometimes when he uh
+when we can't elaborate or i guess and
+then see words well he seems to make
+more maps than he which is a problem so
+i don't know if there's a better way to
+say heat map
+or it's just um
+keep map don't make a heat map or map
+when they come out yeah if you mess up
+on the word heat or if it doesn't hurt
+um properly here heat
+in there
+it's gonna default to now yeah
+yeah so it seems like they were getting
+more maps and heat pumps oh when we
+explicitly asked for events but uh yeah
+that's that's one of the other things i
+want to say one word two words
+it's two words
+okay so
+okay
+when you search for the key term
+the search has two words
+or one word
+um
+i do uh
+i just actually has one word
+keep my participation into that oh
+surely
+what limitation did you see with artie
+um is there anything that you wanted him
+to do more but
+couldn't like
+is there any commands that you assume
+that he wouldn't do
+i think what you wanted them to do
+i think it was the same issue of us
+trying to modify one shrine
+like where the keywords were
+specifically modified instead of change
+um
+like we wanted to remove null values so
+they wouldn't be in the chart or maybe
+like flip x and y axis
+on heat maps
+but making choices
+i just didn't
+know like these are um keywords for
+specific charts
+yeah for sure for sure
+and um it goes back to the
+like
+the data types as well um
+for specific data sets he just doesn't
+like to make a comparison especially
+with math it doesn't it doesn't seem
+like it filters the same data type for
+like poverty
+code risk
+uh access to doctors versus each other
+meanwhile the heat maps and histograms
+seem to do so
+uh maybe it's the way we just worded
+things but uh
+we kind of expected that already was
+able to make a map to compare
+those kind of data types for the map
+just that data set
+i sort of wish that artie would have
+different messages for errors than we
+had
+like if we kept repeating the same map
+perhaps you would say like oh there's
+already math created or if we can't
+create a map for two different data sets
+maybe you would say oh i can't map
+between
+this and that
+so that we would know not to see those
+okay so here's another question so when
+you guys are making visualizations um
+did you already
+have
+what it might look like in your mind or
+were you just expecting party to
+somehow put all of these together
+i was um i guess what
+already for me at the very least
+i wanted like
+i had my sort of expectations going into
+it so
+um
+i have
+specific ways on my mind like wanting
+perhaps coleman risk based off of region
+i was one thing to kind of like
+that we wanted to see maybe like it
+would highlight different colors
+uh but um
+uh
+i didn't expect
+artie to like combine
+maps together like ones that we created
+and then just mash them together
+uh i i just expected that you get a map
+then you can modify it to what you want
+afterwards
+for the very
+um
+i thought already would have
+higher capabilities of making multiple
+bar charts like for example i wanted to
+make one for
+like all the diseases and diabetes
+cardiovascular
+into the bar charts and have them by
+region
+so all those attributes into one program
+but i guess they're just naked
+separately
+um
+that could be an added feature
+i'm sorry um
+so when you guys were expecting
+two attributes in a map
+what did you expect that to look like
+because i noticed you guys are saying
+um i think you guys are trying to
+combine those two yeah
+i guess if we were to kind of
+single it down
+it would be like places that correlate
+with
+like places that had very high poverty
+and also very high risk maybe that's
+what we were like in my mind that's what
+i was trying to
+visualize like we want places that have
+similarly high
+areas of
+okay so or even even more so like a
+place with very high poverty rate but
+also have a very low access to doctors
+i i guess it's redundant but it also um
+allows to
+reinforce
+uh
+like
+a thought of what the correlation might
+be yeah i know i know yeah yeah
+because it seems like you can definitely
+do that with
+with the histograms yeah where like we
+can access the doctor's filter by a
+specific place that also has a very high
+poverty rate so that's what i was like
+thinking was possible a possibility for
+the maps as well
+yeah
+um
+you have two more questions
+so how was your experience working with
+a partner to explore the data set
+because usually these are done
+you know individually on company for one
+person how did they feel like having a
+partner there
+it was good that we can expand on each
+other's ideas
+to create more ideas
+and
+it just helped making like experimenting
+your party very fast so you can like
+churn out more charts at a time
+i think it's also good because uh
+different mindsets also means different
+approaches to
+uh the questions that we wanted to get
+answered so
+um
+while she might have her own idea of
+like
+what information would solve this
+question i can also use that to maybe uh
+mix with my own uh approach to it and it
+it does allow for
+i guess even better answers than what i
+would
+think beforehand stuff like that okay
+so do you think you would have came to
+the same conclusion you're on your own
+or
+um
+i'm not too sure
+maybe not on my own because when i like
+to
+think through problems i like to think
+i'm silent
+so it's very good to voice out
+my
+thoughts with another partner and
+doing so ill help trigger party to
+create one match
+i think with like
+working with a partner it there is a
+more slower methodical way of handling
+it since now you have to hear uh the
+opinions of another person as well
+but
+um
+i
+i wouldn't say that i would uh
+get to the these answers the same way
+because i would probably be uh in my
+brain i would probably put lower
+priority uh data types like to the side
+because
+uh you already assumed that you wouldn't
+care for them until you actually look at
+them whatever
+something uninsured and it was like
+not accessible
+there's just a few data types that it
+seemed like were useless unless you had
+somebody to tell you to look into them
+which is what
+happened okay
+so were you more confident in your
+answer at the end when you had
+someone
+yeah let's do something okay
+anything
+you want
+so did you learn something
+about copenhagen
+from looking at these charts that maybe
+you didn't realize or
+oh for sure
+i guess well
+maybe it it it kind of
+more
+facilitates my mentality from like
+knowing the news and whatnot but yeah
+definitely like
+the midwest
+southeast
+definite places of haikovich
+like florida crazy amounts and like
+i guess looking into this kind of
+uh just cemented a lot of my
+preconceived notions of
+uh how kobe was spreading and where it
+is very densely populated but it's also
+interesting to see newer things like oh
+yeah these places also have very low
+access to doctors or very high poverty
+which is very surprising
+and maybe that is partially the reason
+why
+um
+so
+you notice that we don't show you what
+already
+thinks you're saying
+or if you don't see
+your what you're saying to it you're
+scrolling across the screen
+would you like to be able to see it
+um
+um maybe since
+um some people might have trouble uh
+they might have trouble recognizing your
+voice right they have problems
+enunciating your words
+it would be great if they could if we
+could arrange a party could see by
+dictating things
+for people who can't speak well with you
+right
+i think uh
+it'll be nice if it's more like
+uh
+if it's one of those things where it's
+like oh do you mean heat math
+and then you say yes or no and then
+maybe it would
+uh then complete your query right that
+would that would be really interesting
+because i i feel like google translate
+and some other stuff does that where
+it's just like oh what do you mean
+instead of what you probably said yeah
+all right
+do you use siri or or um
+alexa or google
+yeah when i'm at home i use electrical
+nest oh
+no
+all right
+so do you do you both have this at home
+or something like that or do you use it
+are you at home yeah which one
+uh alexa
+yeah
+no no alexa stop stop
+uh i use
+bixby for my samsung phone and i use
+things to just
+make alarms set alarms and
+i mean i tried to play variety music
+last night with alexa it wasn't really
+working
+but that's just part of it
+okay
+all right well that's been that's been
+really helpful
+um
+very
+that's good that's good this is actually
+very helpful because you know
+i mean like
+when you're making a product you really
+hope for the best of it but sometimes
+you gotta know that there's gonna be a
+lot of people yeah it helps us
+anticipate what are the other commands
+that people might say that we can think
+of
+it allows us to see when
+an artist is misunderstanding what are
+better ways for them to respond or sleep
+a little more natural yeah
+like we didn't you used to have arnie
+saying nice to meet you
+but
+we thought we'd just put it in just for
+the beginning part
+and just to encourage you to think of it
+as a person
+but it kind of backfires because
+they kept saying
+because it looks very very high like you
+guys are saying high culvert risk so it
+just seems oh that makes sense
+and then we noticed that you guys were
+talking to each other really quietly
+right tonight set off
+yeah and so
+but we were thinking how can we
+set it up so that
+you didn't
+try to speak so quietly because
+partying by listening to you
+in theory should be able to
+help you make the query more precise
+when you are being paid as richard so
+and so
+i think you know so maybe in future
+experiments
+we may have to
+somehow separate people
+so they are forced to talk aloud
+you know or that's not natural and you
+know i mean certainly presumably would
+work because to resume everyone has to
+talk right
+yeah in this case
+you were kind of treating
+already
+differently right and you wouldn't treat
+a human that way yeah right so
+what can we do to
+have you treat already
+maybe are you just
+disoffended if you don't include it in
+the conversation
+yeah
+you have a police class to be like hey
+i'm here or something like that yeah
+also the fact that rd doesn't actually
+say anything
+audibly
+does that tend to make you kind of
+ignore it more
+since he's kind of in the corner
+yeah and the only time you talk to him
+is when it replies with the butt
+okay maybe you could be like on the top
+middle
+so you can both see it
+why would it be weird if the hovers by
+people like perpetually
+i don't know i mean
+or maybe you would be life-sized
+standing in the corner oh
+that'd be
+intimidating because that's what a
+normal human would be right
+i guess it really is this like this
+aspect of like jarvis in this with the
+hearty
+and uh finding the human qualities
+so the question is should we even have a
+picture of him or should it be just like
+jarvis we you know you don't see jarvis
+you just hear jarvis
+i mean
+i guess a like visualization of like
+speaking would be cool
+maybe perhaps but uh
+um
+yeah maybe just ways to have people know
+that he's there more prominent than what
+he knows
+although making like vocal
+like
+cues and stuff might be a bit
+too much
+yeah because alexa like probably took me
+years to make
+to like get to the point where it's just
+like here are things or like
+just say shadow words and all that right
+yeah
+it's still very cool though did you
+notice like he was actively listening to
+it
+yes so
+uh it seems like the one way you know
+that he is trying to complete a query
+whether you know
+whether it's working or not would you
+just flash like
+a 404 png image
+like if you're talking because i think i
+noticed that it's like a gift cycle and
+at the very end has this 404 png but
+another thing that you notice is if he
+can't complete the query and he is
+listening to you
+it would just flash it like real fast
+and we're like oh you didn't listen okay
+next next question or next thing to say
+yeah you may have to scale down the
+png's
+they're really great
+so that's why it takes longer to load
+how much did you look at artie
+um
+i looked at him when the charts were
+being made okay that's the only time oh
+no i was looking at him the whole time
+if i'm saying something yeah
+but only when you talk to him right um i
+also uh i also noticed that when he's
+making a lot of stuff he would i would
+look at him to see how he's reacting it
+seems like yeah there's just very
+there's a lot of key words where he'll
+just start making stuff without you
+asking
+and it was like
+i'll be like
+i wonder if i can use coven wrist versus
+suburban and it would make something
+like that although it's not 100
+what i wanted or i guess what i was
+wondering it's still nice that he kind
+of just throws in things that are
+vaguely
+relating to it
+although i don't know if that's just
+part of just the vocal
+of
+of his nature in general
+it's still cola yeah yeah
+yeah we have it built in where
+it will it will spontaneously make a
+visualization that you don't ask for
+but it's been listening all this time
+and trying to figure out maybe this
+might be helpful
+and we're just trying to figure out is
+it wrong most of the time or is it right
+or is it annoying
+well as you can see there's a point
+where we asked for multiple histograms
+and it just gave us regions
+but
+uh i think there was this one point
+where we said line chart like 15 minutes
+ago and then i don't know where it
+started making line charts for us so
+that's really cool
+that
+um
+um i definitely don't right yeah
+yeah
+yeah thank you it was
+really helpful well thank you it was
+really cool we'd like to invite you back
+but we can't because in theory you're
+tainted
+so but if you know of other people
+who could be good
+test subjects
+especially if they're like you know
+non-computer scientists scientist
+yeah like for example like they are they
+work they work and they work in like
+with their nurses or their
+health health care types or sociologist
+types
+what if they're acl and they really
+because you know computer science teams
+tend to have a certain way of talking to
+computers and then
+non-computer scientists have a different
+way of talking to computers that's very
+true i'm pretty sure because of computer
+science we're mostly talking about like
+yourself you're looking at the png
+errors
+actually i do have a question you said
+that you only looked at are you when uh
+when you was drawing the charts yeah why
+were you looking at it in those times
+um because i wanted to see if my
+keywords are being like activated like
+when i specifically said like make a
+chart of this investment
+i wanted to
+we were looking for that blob that says
+making
+like three charts yeah making three
+charts or i can't make charts for them
+yeah for me i was mostly looking at um
+uh the way already kind of reacted to
+ways you can speak just so that like
+in the beginning it was mostly so that i
+can see if uh something counts as a
+successful query or if it's not a
+successful query um definitely with the
+flashing png
+but that was like the one main cue for
+me to be like okay that's how i know
+it's a successful query or not and then
+i just kind of use that whenever i was
+talking to already to make more charts
+yeah
+but every time yeah i would look at him
+just so to make sure that if we are
+making something
+um
+he did recognize us
+because other times like we would repeat
+something maybe two or three times and
+then maybe the third time it would
+actually
+work to what we wanted
+so arjuna can you switch over to the to
+the
+diagnostics
+so that we can have a recording of that
+from the video too
+whoa
+so these are all the attributes that
+you've said
+over time
+and that all the text there is a text
+transcript
+yeah there's a lot of synonyms that the
+library is using that makes access to
+doctors
+[Music]
+frequency count negative
+so what does the negative frequency
+counts like
+[Music]
+[Music]
+to say something like you know i don't
+think this has
+to be fair i don't know how
+here i can recognize his access to
+doctors because i'm pretty sure we only
+said it maybe ten times i think
+um
+nate
+is somehow a synonym
+i might have to just remove that
+i didn't know that was a synonym
+[Music]
+capturing your little conversations in
+between
+remove the no value i don't know yeah
+that's definitely one thing you need to
+say yeah it's it's just
+no i guess this is everything okay good
+see like it misunderstood certain words
+right
+he really loves giving this afternoon
+but you see we didn't want to show you
+everything it said because then it's
+going to start distracting you with what
+do you mean by mickey mouse
+and that's what alexa's doing most of
+the time too
+olivia for sure and then it's just
+making a
+lucky guess to see well let's say
+something general in response to cp
+accept that
+like i really like the versus code with
+culver address traxxas pump metal
+yeah pro fitness and hopping
+i guess the
+consideration of like showing everything
+what he said wouldn't it be good for
+ferdi since he's listening to the petrol
+okay nobody even said ella can you flip
+the x and y axis so you just listen
+so what do you mean by flip the x on my
+axis because then that that was just
+more cosmetic oh wait for the sheet mask
+show battle bots baseball tournament
+some beautiful things that we had
+somehow
+i think it's google thinking that
+oh a lot of people say battlebots
+baseball tournament
+maybe it just like smashes
+that's the best one right there so let's
+save this rj so we don't use it yeah
+we'll definitely look into the game
+because that's
+vulnerability
+all right
+well thanks a lot
+don't want to hold you too too much
+longer don't have lunch
+and i'll
+probably send you the amazon gift card
+tonight
+oh for sure yeah
+yeah so
+the real question is where's
+clyde where's claude here today i'm here
+today
+hope you wondered that i should have let
+me know oh my god
+that would have been a very nice
+addition to this
+you guys did great thank you
+yeah there was at one part i was like
+yeah it was right yeah i thought it was
+real
+like
