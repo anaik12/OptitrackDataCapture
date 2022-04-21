@@ -1,0 +1,116 @@
+0.08, 0.08, gonna record both huh okay let's see
+2.48, 2.4, what happens
+4.08, 1.6, it blows up
+6.88, 2.8, okay so let's restart this app
+10.64, 3.76, really
+27.44, 16.8, so everything
+29.12, 1.68, is hands-on
+30.8, 1.68, okay so everything should be recording
+32.8, 2.0, now right yes
+34.8, 2.0, okay so
+36.8, 2.0, i might want this a little bit more
+42.84, 6.04, okay maybe not
+46.32, 3.48, oh
+51.28, 4.96, okay
+53.2, 1.92, all right so i might so what was the
+56.08, 2.88, query again
+59.36, 3.28, so i need something useful
+62.72, 3.36, oh i didn't say anything
+65.52, 2.8, um
+72.72, 7.2, this is a chart of
+75.6, 2.88, date
+77.2, 1.6, versus cases
+81.04, 3.84, so
+82.0, 0.96, which regions
+83.84, 1.84, of the u.s we prioritize for directing
+87.84, 4.0, resources
+91.6, 3.76, show me the regions of the united states
+120.96, 29.36, show me a map of regions
+126.88, 5.92, have
+128.24, 1.36, it surprises you even
+130.56, 2.32, so it looks like
+134.32, 3.76, southeast
+136.8, 2.48, south east
+138.32, 1.52, that's
+140.4, 2.08, this area and the midwest
+143.2, 2.8, are the highest
+144.8, 1.6, so there's a lot of counties
+147.2, 2.4, there's a lot of
+148.88, 1.68, little sleeves
+150.64, 1.76, well i could kill my paper yeah because
+152.56, 1.92, it's an infrared screen
+154.32, 1.76, that's why it picks it up and then
+159.2, 4.88, our region's different the regions are
+161.04, 1.84, different
+163.2, 2.16, show me covet in the southeast
+173.6, 10.4, very high
+189.36, 15.76, yeah so
+190.88, 1.52, it's selected
+194.64, 3.76, when you're dragging it
+196.48, 1.84, that means
+199.28, 2.8, when you click it it's you're selected
+201.04, 1.76, and that means you're getting ready to
+202.24, 1.2, do a pivot oh but when you're dragging
+204.48, 2.24, it it also makes sense
+206.96, 2.48, you have to make sure you have selected
+208.48, 1.52, oh
+209.28, 0.8, so
+224.16, 14.88, oh
+225.2, 1.04, i see
+230.72, 5.52, it's my joy it's crazy
+232.88, 2.16, maybe we have to use a mouse
+236.8, 3.92, right
+242.56, 5.76, [Music]
+246.16, 3.6, are these good
+247.6, 1.44, yeah
+250.4, 2.8, why are they so good
+258.4, 8.0, show me a map of access to doctors
+273.04, 14.64, show me access to doctors in the mid in
+276.64, 3.6, the southwest
+286.24, 9.6, kick ass
+292.72, 6.48, show me
+294.08, 1.36, access to doctors in the midwest
+316.64, 22.56, yeah that's interesting yeah yeah
+319.12, 2.48, we're looking at the y-axis it's also
+322.84, 3.72, oh all the numbers you can't compare
+325.76, 2.92, evenly yeah
+327.68, 1.92, um yeah
+330.4, 2.72, but still it's 40.
+332.96, 2.56, okay so we got to be careful because the
+335.28, 2.32, axes are not the same
+339.68, 4.4, so we may
+342.08, 2.4, want to figure a way to
+344.88, 2.8, okay
+350.72, 5.84, so this is selected so okay
+353.52, 2.8, show me the same map for
+356.16, 2.64, the east coast
+379.04, 22.88, show me a map of region
+391.52, 12.48, show me this for the rockies
+399.84, 8.32, that worked
+409.68, 9.84, show me this for
+411.92, 2.24, access to doctors
+430.4, 18.48, you can see i'm gonna run out of space
+431.84, 1.44, real fast
+436.96, 5.12, show me elderly percentage
+444.16, 7.2, show me something about elderly
+445.6, 1.44, percentage
+454.16, 8.56, what is the correlation between elderly
+456.16, 2.0, percentage and covet risk
+467.68, 11.52, it's like black magic
+469.6, 1.92, it says voodoo
+478.08, 8.48, access to doctors
+480.32, 2.24, by region huh
+484.88, 4.56, okay let's stop this for now
+487.76, 2.88, let's save all your data
+494.4, 6.64, i'll save your app data too
+501.12, 6.72, yeah
+504.0, 2.88, good because when we saved your app data
+506.88, 2.88, the software captured made a screenshot
+509.28, 2.4, of this whole thing too
+510.96, 1.68, oh that's right right
+512.88, 1.92, because we don't make one you don't make
+514.4, 1.52, one right yeah
+516.4, 2.0, so this is this is nice to see
+519.12, 2.72, right
+520.48, 1.36, and then
+522.16, 1.68, so now let's stop this guy

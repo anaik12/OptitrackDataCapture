@@ -1,7 +1,6 @@
 class Activity:
     
-    def __init__(self, date, sourceId, posx, posy, posz, orw, orx, ory, orz):
-        self.date = date
+    def __init__(self, sourceId, posx, posy, posz, orw, orx, ory, orz, time):
         self.sourceId = sourceId
         self.posx = posx
         self.posy = posy
@@ -10,6 +9,7 @@ class Activity:
         self.orx = orx
         self.ory = ory
         self.orz = orz
+        self.time = time
         
         def __repr__(self):
-            return "Activity('{}',{},{},{},{},{},{},{},{})".format(self.date, self.sourceId, self.posx, self.posy, self.posz, self.orw, self.orx, self.ory, self.orz)
+            return "Activity({},{},{},{},{},{},{},{},{})".format(self.sourceId, self.posx, self.posy, self.posz, self.orw, self.orx, self.ory, self.orz, self.time)
